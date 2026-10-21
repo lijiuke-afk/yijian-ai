@@ -8,6 +8,10 @@
 
 **纯视觉技术｜自动回复｜主动跟进｜自动归档**
 
+**产品方宣传语：不封号！不封号！！不封号！！**
+
+纯视觉识别真实界面，通过系统辅助功能操作，不破解底层协议；账号使用仍适用对应平台规则。
+
 [官网下载](https://gw.chantgpt.cn/?utm_source=github&utm_medium=readme&utm_campaign=yijian_ai) · [观看视频](#产品演示) · [快速上手](docs/getting-started.md) · [功能与截图](docs/features.md) · [微信咨询](#添加微信了解一见ai)
 
 <img src="assets/images/ai-employee-7x24.png" alt="一见AI：微信、企业微信、QQ、WhatsApp，7×24小时AI员工，纯视觉、自动回复和主动跟进" width="880" />
